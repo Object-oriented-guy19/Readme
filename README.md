@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Networking,DSA**
 
-- 📫 How to reach me **umargundoo19@gmail.com/umargundoo19@outlook.com**
+- 📫 How to reach me **umargundoo19@gmail.com
 
 - ⚡ Fun fact **I don't know anything**
 
