@@ -1,4 +1,4 @@
-<h1 align="center">Hii, I'm Umar</h1>
+<h1 align="center">Hii👋, I'm Umar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=object-oriented-guy19&label=Profile%20views&color=0e75b6&style=flat" alt="object-oriented-guy19" /> </p>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Networking,DSA**
 
-- 📫 How to reach me **umargundoo19@gmail.com
+- 📫 How to reach me **umargundoo19@outlook.com
 
 - ⚡ Fun fact ****
 
