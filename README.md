@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Learning**
 
-- 🌱 I’m currently learning **Networking,DSA**
+- 🌱 I’m currently learning **Networking,Datastructure,cybersecurity**
 
 - 📫 How to reach me **umargundoo19@outlook.com
 
